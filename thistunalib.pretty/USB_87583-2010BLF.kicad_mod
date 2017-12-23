@@ -1,4 +1,4 @@
-(module 87583-2010BLF (layer F.Cu) (tedit 5A3E7C58)
+(module USB_87583-2010BLF (layer F.Cu) (tedit 5A3E7C58)
   (descr "USB A connector")
   (tags "USB USB_A")
   (fp_text reference J5 (at -3.555 -5.93) (layer F.SilkS)
