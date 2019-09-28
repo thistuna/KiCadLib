@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATA6561
+D High-Speed CAN Transceiver, CAN FD Ready, 5Mbps, 5V supply, low power standby mode, SOIC-8
+K High-Speed CAN Transceiver
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATA6560-ATA6561-High-Speed-CAN-Transceiver-DS20005991A.pdf
+$ENDCMP
+#
+#End Doc Library
