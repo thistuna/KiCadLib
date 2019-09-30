@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NJW4131GM1-A
+D 1.4A Step-Up DC-DC Converter, Isw up to 1700mA, Adjustable output voltage, HSOP-8
+K Adjustable 1.4A boost converter
+F https://www.njr.co.jp/products/semicon/PDF/NJW4131_J.pdf
+$ENDCMP
+#
+#End Doc Library
