@@ -1,0 +1,186 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM3050E
+D Isolated CAN Transceiver, 12Mbps
+K can transceiver isolated protected
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3053.pdf
+$ENDCMP
+#
+$CMP ADM3251
+D Isolated RS232 driver/receiver, integrated isolated DC-DC converter, 460kbps
+K rs232 uart transceiver line-driver isolated protected
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM3251E.pdf
+$ENDCMP
+#
+$CMP CRD
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode
+F ~
+$ENDCMP
+#
+$CMP Crystal_GND24Common_Small
+D Four pin crystal, GND on pins 2 and 4, small symbol
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP KEL_KDS
+D KEL, KDS series, Rotary switch, 4-bit encoding
+K kel kds  rotary hex
+F ~
+$ENDCMP
+#
+$CMP KF33BD-TR
+D 500mA low dropout linear regulator, SO-8
+K 500mA LDO linear voltage regulator positive
+$ENDCMP
+#
+$CMP LBR-127HLD
+D Subminiature Reflective Optical Sensor
+K Reflective Optical Sensor Opto
+F http://www.kingbright.com/attachments/file/psearch/000/00/00/KRC011(Ver.15).pdf
+$ENDCMP
+#
+$CMP LM3478
+K DC-DC
+F http://www.ti.com/jp/lit/ds/symlink/lm3478.pdf
+$ENDCMP
+#
+$CMP NJM78L00S
+D Positive 1A 30,35V Linear Regulator, Fixed Output 00V, SOT-89-3
+K Voltage Regulator 100mA Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM78L00S_J.pdf
+$ENDCMP
+#
+$CMP Opamp_Dual_Generic
+D Dual operational amplifier
+K dual opamp
+F ~
+$ENDCMP
+#
+$CMP PDSE1-S5-S12-S
+D CUI Inc. 1W, 1500 VDC Isolated DC/DC Converter Module, Fully Regulated Single Output Voltage 12V, 84mA, 5V Input Voltage, SIP
+K CUI_Inc. DC/DC isolated Converter module
+F https://www.jp.cui.com/product/resource/pdse1-s.pdf
+$ENDCMP
+#
+$CMP PQxxxEZ1HZ
+D 1.5A low dropout linear regulator, TO-252-5
+K 1.5A LDO linear voltage regulator positive
+$ENDCMP
+#
+$CMP R_old_Small
+D Resistor, small symbol
+K r resistor
+$ENDCMP
+#
+$CMP STM32G431CBTx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 38 GPIO, LQFP-48
+K ARM Cortex-M4 STM32G4 STM32G431
+F https://www.st.com/resource/en/datasheet/stm32g431cb.pdf
+$ENDCMP
+#
+$CMP SW_DIP_x04_Separate
+D 4x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+F ~
+$ENDCMP
+#
+$CMP Si8621AB-B-IS
+D Low-Power Dual-Channel Digital Isolator, 1Mbps, 2.5-5.5V, 2.5kV isolation, Fail-Safe Low, SOIC-8
+K 2Ch 1In 1Out Dual Digital Isolator 1Mbps
+F https://www.silabs.com/documents/public/data-sheets/si86xx-1Mbps-datasheet.pdf
+$ENDCMP
+#
+$CMP TPS55340
+D 5A Step-Up DC-DC Converter for Batteries, Isw up to 6600mA, Adjustable output voltage, HTSSOP-14
+K Adjustable 5A battery boost converter
+F http://www.ti.com/jp/lit/ds/symlink/tps55340.pdf
+$ENDCMP
+#
+$CMP TPS564201
+D 4A Synchronous Step-Down Voltage Regulator, Adjustable Output Voltage, 4.5-17V Input Voltage, SOT-23-6
+K step-down dcdc voltage regulator
+F http://www.ti.com/jp/lit/ds/symlink/tps564201.pdf
+$ENDCMP
+#
+$CMP TPS61091
+D 2A Step-Up DC-DC Converter for Batteries, Isw up to 2500mA, 3.3V Output Voltage, QFN-16
+K Fixed 3.3V 2A battery boost converter
+F http://www.ti.com/lit/ds/symlink/tps61090.pdf
+$ENDCMP
+#
+$CMP TPS61092
+D 2A Step-Up DC-DC Converter for Batteries, Isw up to 2500mA, 5V Output Voltage, QFN-16
+K Fixed 5V 2A battery boost converter
+F http://www.ti.com/lit/ds/symlink/tps61090.pdf
+$ENDCMP
+#
+$CMP TPW1R306PL
+D 100A Id, 60V Vds, U-MOSIX-H N-MOS Power MOSFET, Ronon 0.0015R, DSOP Advance
+K U-MOSIX-H Power MOSFET N-MOS
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=58088&prodName=TPW1R306PL
+$ENDCMP
+#
+$CMP _CONN_01X24_2
+D Connector, single row, 01x24, pin header
+K connector
+$ENDCMP
+#
+$CMP _MJ-519
+D double coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)
+K BNC SMA SMB SMC coaxial connector CINCH RCA
+$ENDCMP
+#
+$CMP _MJ-8435
+D 3-pin audio jack receptable (stereo/TRS connector)
+K audio jack receptable stereo headphones phones TRS connector
+F ~
+$ENDCMP
+#
+$CMP _Q_NMOS_GDS
+D Transistor N-MOSFET with substrate diode (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP _Q_PMOS_GDS
+D Transistor P-MOSFET with substrate diode (general)
+K pmos p-mos p-mosfet transistor
+$ENDCMP
+#
+$CMP _TLE2426_LP
+D 40V, 20mA, Rail Splitter, TO-92
+K Rail Splitter
+$ENDCMP
+#
+$CMP uA7808
+D Positive 1A 35V Linear Regulator, Fixed Output 8V, TO-220/TO-263
+K Voltage Regulator 1A Positive
+F http://www.ti.com/lit/ds/symlink/ua78.pdf
+$ENDCMP
+#
+$CMP uA7810
+D Positive 1A 35V Linear Regulator, Fixed Output 10V, TO-220/TO-263
+K Voltage Regulator 1A Positive
+F http://www.ti.com/lit/ds/symlink/ua78.pdf
+$ENDCMP
+#
+$CMP uA7812
+D Positive 1A 35V Linear Regulator, Fixed Output 12V, TO-220/TO-263
+K Voltage Regulator 1A Positive
+F http://www.ti.com/lit/ds/symlink/ua78.pdf
+$ENDCMP
+#
+$CMP uA7815
+D Positive 1A 35V Linear Regulator, Fixed Output 15V, TO-220/TO-263
+K Voltage Regulator 1A Positive
+F http://www.ti.com/lit/ds/symlink/ua78.pdf
+$ENDCMP
+#
+$CMP uA7824
+D Positive 1A 35V Linear Regulator, Fixed Output 24V, TO-220/TO-263
+K Voltage Regulator 1A Positive
+F http://www.ti.com/lit/ds/symlink/ua78.pdf
+$ENDCMP
+#
+#End Doc Library
