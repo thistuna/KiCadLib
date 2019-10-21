@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NJM12888F05
+D 300mA Low Dropout Voltage Regulator, Fixed Output 5.0V, SOT-23-5
+K 300mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM12888_J.pdf
+$ENDCMP
+#
+$CMP NJM12888F15
+D 300mA Low Dropout Voltage Regulator, Fixed Output 1.5V, SOT-23-5
+K 300mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM12888_J.pdf
+$ENDCMP
+#
+$CMP NJM12888F18
+D 300mA Low Dropout Voltage Regulator, Fixed Output 1.8V, SOT-23-5
+K 300mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM12888_J.pdf
+$ENDCMP
+#
+$CMP NJM12888F25
+D 300mA Low Dropout Voltage Regulator, Fixed Output 2.5V, SOT-23-5
+K 300mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM12888_J.pdf
+$ENDCMP
+#
+$CMP NJM12888F33
+D 300mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5
+K 300mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM12888_J.pdf
+$ENDCMP
+#
+#End Doc Library
