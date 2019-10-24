@@ -30,4 +30,52 @@ K 300mA LDO Regulator Fixed Positive
 F https://www.njr.co.jp/products/semicon/PDF/NJM12888_J.pdf
 $ENDCMP
 #
+$CMP NJM78L03SU3
+D Positive 100mA 30V Linear Regulator, Fixed Output 3V, SOT-89-3
+K Voltage Regulator 100mA Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM78L00S_J.pdf
+$ENDCMP
+#
+$CMP NJM78L05SU3
+D Positive 100mA 30V Linear Regulator, Fixed Output 5V, SOT-89-3
+K Voltage Regulator 100mA Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM78L00S_J.pdf
+$ENDCMP
+#
+$CMP NJM78L06SU3
+D Positive 100mA 30V Linear Regulator, Fixed Output 6V, SOT-89-3
+K Voltage Regulator 100mA Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM78L00S_J.pdf
+$ENDCMP
+#
+$CMP NJM78L08SU3
+D Positive 100mA 30V Linear Regulator, Fixed Output 8V, SOT-89-3
+K Voltage Regulator 100mA Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM78L00S_J.pdf
+$ENDCMP
+#
+$CMP NJM78L10SU3
+D Positive 100mA 35V Linear Regulator, Fixed Output 10V, SOT-89-3
+K Voltage Regulator 100mA Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM78L00S_J.pdf
+$ENDCMP
+#
+$CMP NJM78L12SU3
+D Positive 100mA 35V Linear Regulator, Fixed Output 12V, SOT-89-3
+K Voltage Regulator 100mA Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM78L00S_J.pdf
+$ENDCMP
+#
+$CMP NJM78L15SU3
+D Positive 100mA 35V Linear Regulator, Fixed Output 15V, SOT-89-3
+K Voltage Regulator 100mA Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM78L00S_J.pdf
+$ENDCMP
+#
+$CMP NJM78L33SU3
+D Positive 100mA 30V Linear Regulator, Fixed Output 3.3V, SOT-89-3
+K Voltage Regulator 100mA Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM78L00S_J.pdf
+$ENDCMP
+#
 #End Doc Library
