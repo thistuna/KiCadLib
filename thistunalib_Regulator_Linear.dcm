@@ -30,6 +30,84 @@ K 300mA LDO Regulator Fixed Positive
 F https://www.njr.co.jp/products/semicon/PDF/NJM12888_J.pdf
 $ENDCMP
 #
+$CMP NJM2884U1-02
+D 500mA Low Dropout Voltage Regulator, Fixed Output 2.0V, SOT-89-5
+K 500mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
+$CMP NJM2884U1-03
+D 500mA Low Dropout Voltage Regulator, Fixed Output 3.0V, SOT-89-5
+K 500mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
+$CMP NJM2884U1-05
+D 500mA Low Dropout Voltage Regulator, Fixed Output 5.0V, SOT-89-5
+K 500mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
+$CMP NJM2884U1-15
+D 500mA Low Dropout Voltage Regulator, Fixed Output 1.5V, SOT-89-5
+K 500mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
+$CMP NJM2884U1-18
+D 500mA Low Dropout Voltage Regulator, Fixed Output 1.8V, SOT-89-5
+K 500mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
+$CMP NJM2884U1-19
+D 500mA Low Dropout Voltage Regulator, Fixed Output 1.9V, SOT-89-5
+K 500mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
+$CMP NJM2884U1-21
+D 500mA Low Dropout Voltage Regulator, Fixed Output 2.1V, SOT-89-5
+K 500mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
+$CMP NJM2884U1-25
+D 500mA Low Dropout Voltage Regulator, Fixed Output 2.5V, SOT-89-5
+K 500mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
+$CMP NJM2884U1-255
+D 500mA Low Dropout Voltage Regulator, Fixed Output 2.55V, SOT-89-5
+K 500mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
+$CMP NJM2884U1-28
+D 500mA Low Dropout Voltage Regulator, Fixed Output 2.8V, SOT-89-5
+K 500mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
+$CMP NJM2884U1-33
+D 500mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-89-5
+K 500mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
+$CMP NJM2884U1-36
+D 500mA Low Dropout Voltage Regulator, Fixed Output 3.6V, SOT-89-5
+K 500mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
+$CMP NJM2884U1-48
+D 500mA Low Dropout Voltage Regulator, Fixed Output 4.8V, SOT-89-5
+K 500mA LDO Regulator Fixed Positive
+F https://www.njr.co.jp/products/semicon/PDF/NJM2884_2884A_J.pdf
+$ENDCMP
+#
 $CMP NJM78L03SU3
 D Positive 100mA 30V Linear Regulator, Fixed Output 3V, SOT-89-3
 K Voltage Regulator 100mA Positive
