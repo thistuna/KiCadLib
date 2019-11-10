@@ -5,4 +5,14 @@ D Power symbol creates a global label with name "+24P"
 K power-flag
 $ENDCMP
 #
+$CMP +6.5V
+D Power symbol creates a global label with name "+6.5V"
+K power-flag
+$ENDCMP
+#
+$CMP +6V5
+D Power symbol creates a global label with name "+6.5V"
+K power-flag
+$ENDCMP
+#
 #End Doc Library
