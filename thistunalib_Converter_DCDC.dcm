@@ -6,4 +6,10 @@ K Adjustable 1.4A boost converter
 F https://www.njr.co.jp/products/semicon/PDF/NJW4131_J.pdf
 $ENDCMP
 #
+$CMP ROE-0515S
+D CUI Inc. 1W, 1kVDC Isolated DC/DC Converter Module, Fully Regulated Single Output Voltage 15V, 66mA, 5V Input Voltage, SIP
+K CUI_Inc. DC/DC isolated Converter module
+F https://recom-power.com/pdf/Econoline/ROE.pdf
+$ENDCMP
+#
 #End Doc Library
