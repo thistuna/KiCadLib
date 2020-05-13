@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCK108AF
+D 110nA, Low Leakage and Quiescent Current, Load Switch, Low Enable, SMV
+K Load switch
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=53239&prodName=TCK108AF
+$ENDCMP
+#
+#End Doc Library
