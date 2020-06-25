@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS507CLT
+D 1.9 MHz, 800 µA Op Amps, SOT-23-5
+K single opamp
+$ENDCMP
+#
+#End Doc Library
