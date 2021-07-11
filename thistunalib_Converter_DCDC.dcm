@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MPD7K020S
+D 5A(5A) 3A(12V) Step-Down DC/DC-Regulator, 17-40V input, 5V or 12V fixed Output Voltage, -10°C to +80°C, MPD7K020S
+K dc-dc murata Step-Down DC/DC-Regulator
+$ENDCMP
+#
 $CMP NJW4131GM1-A
 D 1.4A Step-Up DC-DC Converter, Isw up to 1700mA, Adjustable output voltage, HSOP-8
 K Adjustable 1.4A boost converter
