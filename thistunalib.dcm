@@ -13,8 +13,8 @@ F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM3251E.pd
 $ENDCMP
 #
 $CMP CRD
-D Light emitting diode, small symbol
-K LED diode light-emitting-diode
+D CRD, small symbol
+K CRD diode current-regulative-diode
 F ~
 $ENDCMP
 #
