@@ -156,4 +156,64 @@ K Voltage Regulator 100mA Positive
 F https://www.njr.co.jp/products/semicon/PDF/NJM78L00S_J.pdf
 $ENDCMP
 #
+$CMP NJU7223DL1-18
+D Positive 500mA 18V Linear Regulator, Fixed Output 1.8V, TO-252
+K Voltage Regulator 500mA Positive
+F https://www.njr.co.jp/electronic_device/PDF/NJU7223_J.pdf
+$ENDCMP
+#
+$CMP NJU7223DL1-25
+D Positive 500mA 18V Linear Regulator, Fixed Output 2.5V, TO-252
+K Voltage Regulator 500mA Positive
+F https://www.njr.co.jp/electronic_device/PDF/NJU7223_J.pdf
+$ENDCMP
+#
+$CMP NJU7223DL1-30
+D Positive 500mA 18V Linear Regulator, Fixed Output 3V, TO-252
+K Voltage Regulator 500mA Positive
+F https://www.njr.co.jp/electronic_device/PDF/NJU7223_J.pdf
+$ENDCMP
+#
+$CMP NJU7223DL1-33
+D Positive 500mA 18V Linear Regulator, Fixed Output 3.3V, TO-252
+K Voltage Regulator 500mA Positive
+F https://www.njr.co.jp/electronic_device/PDF/NJU7223_J.pdf
+$ENDCMP
+#
+$CMP NJU7223DL1-50
+D Positive 500mA 18V Linear Regulator, Fixed Output 5V, TO-252
+K Voltage Regulator 500mA Positive
+F https://www.njr.co.jp/electronic_device/PDF/NJU7223_J.pdf
+$ENDCMP
+#
+$CMP NJU7223F-18
+D Positive 500mA 18V Linear Regulator, Fixed Output 1.8V, TO-220F
+K Voltage Regulator 500mA Positive
+F https://www.njr.co.jp/electronic_device/PDF/NJU7223_J.pdf
+$ENDCMP
+#
+$CMP NJU7223F-25
+D Positive 500mA 18V Linear Regulator, Fixed Output 2.5V, TO-220F
+K Voltage Regulator 500mA Positive
+F https://www.njr.co.jp/electronic_device/PDF/NJU7223_J.pdf
+$ENDCMP
+#
+$CMP NJU7223F-30
+D Positive 500mA 18V Linear Regulator, Fixed Output 3V, TO-220F
+K Voltage Regulator 500mA Positive
+F https://www.njr.co.jp/electronic_device/PDF/NJU7223_J.pdf
+$ENDCMP
+#
+$CMP NJU7223F-33
+D Positive 500mA 18V Linear Regulator, Fixed Output 3.3V, TO-220F
+K Voltage Regulator 500mA Positive
+F https://www.njr.co.jp/electronic_device/PDF/NJU7223_J.pdf
+$ENDCMP
+#
+$CMP NJU7223F-50
+D Positive 500mA 18V Linear Regulator, Fixed Output 5V, TO-220F
+K Voltage Regulator 500mA Positive
+F https://www.njr.co.jp/electronic_device/PDF/NJU7223_J.pdf
+$ENDCMP
+#
 #End Doc Library
