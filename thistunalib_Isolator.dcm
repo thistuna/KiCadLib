@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ADuM140E0BRWZ
-D Quad Channel Digital Isolator,150Mbps,QSOP-16
-K Digital Isolator
-F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM140D_140E_141D_141E_142D_142E.pdf
-$ENDCMP
-#
-#End Doc Library

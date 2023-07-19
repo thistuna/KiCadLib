@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AQM0802A-FLW-GBW
-D 2 Lines, 8 character alpha numeric LCD, Gray, I2C, single power, 3.3V
-K display LCD Character
-F http://akizukidenshi.com/download/ds/xiamen/AQM0802A-FLW-GBW.pdf
-$ENDCMP
-#
-#End Doc Library

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP RPR-220
-D Subminiature Reflective Optical Sensor
-K Reflective Optical Sensor Opto
-F http://rohmfs.rohm.com/jp/products/databook/datasheet/opto/optical_sensor/photosensor/rpr-220-j.pdf
-$ENDCMP
-#
-#End Doc Library

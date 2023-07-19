@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP UCC5390SC
-D Isolated Dual-Channel Gate Driver, Output Current 10/10A, 3kV Isolation, 12V UVLO, SOIC-8
-K Single Isolated Gate Driver
-F http://www.ti.com/lit/ds/symlink/ucc5390.pdf
-$ENDCMP
-#
-#End Doc Library
